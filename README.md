@@ -5,8 +5,8 @@ This repo contains code, rmd file, pdf and data for the analysis of the expected
 The sections of repo are : STA302 Assignment 3 and Data.
 
 * File:
-1. STA302 Assignment 2.Rmd
-2. STA302 Assignment 2.pdf
+1. STA302 Assignment 3.Rmd
+2. STA302 Assignment 3.pdf
 
 * Data:
 
